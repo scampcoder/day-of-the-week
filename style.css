@@ -10,6 +10,7 @@ body {
   background-color: #00ffff;
   margin: auto; /*This centers elemets like divs*/
   border-radius: 30px;
+  text-align: center;
 }
 
 h1 {
@@ -18,7 +19,7 @@ h1 {
   color: #fff;
   text-transform: uppercase;
   margin-bottom: 20px;
-  margin-left: 170px;
+  text-align: center;
   background-color: #0000ff;
   padding: 10px;
   border-radius: 5px;
@@ -29,12 +30,10 @@ h1 {
   font-size: 80px;
   color: #dd5800;
   font-weight: 800;
-  margin-left: 170px;
 }
 
 #phrase {
   font-size: 40px;
   color: #0000ff;
   font-weight: 800;
-  margin-left: 170px;
 }
