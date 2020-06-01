@@ -3,3 +3,11 @@ body {
   margin: 50px;
   background: #fff;
 }
+
+#container {
+  width: 650px;
+  height: 350px;
+  background-color: #00ffff;
+  margin: auto; /*This centers elemets like divs*/
+  border-radius: 30px;
+}
