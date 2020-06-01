@@ -11,3 +11,16 @@ body {
   margin: auto; /*This centers elemets like divs*/
   border-radius: 30px;
 }
+
+h1 {
+  font-size: 47px;
+  font-weight: 600;
+  color: #fff;
+  text-transform: uppercase;
+  margin-bottom: 20px;
+  margin-left: 170px;
+  background-color: #0000ff;
+  padding: 10px;
+  border-radius: 5px;
+  display: inline-block;
+}
