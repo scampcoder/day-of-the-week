@@ -24,3 +24,10 @@ h1 {
   border-radius: 5px;
   display: inline-block;
 }
+
+#weekday {
+  font-size: 80px;
+  color: #dd5800;
+  font-weight: 800;
+  margin-left: 170px;
+}
